@@ -1,0 +1,16 @@
+* The Inner Structure of the Scripts directory
+* Again This line is ... this is not an *.is file, You freak!
+* "\n" has meaning here just like *.cat f1l3s
+* Structure is discerned by newlines "\n"
+* Fields are discerned by the newlines and the last line of each group of Non-Whitespace Significants{lines} must end with ":" which marks it for release and whatnot. No i lied. this is a *.has file
+* 
+
+# This file indexes the ./scripts directory
+index.cat
+
+# A handy script that takes the input, scans it, and removes some LINES from it
+# like head but line oriented, i.e it's a complicated sed job or something different
+rest.sh
+
+
+

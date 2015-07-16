@@ -1,0 +1,19 @@
+#!/usr/bin/env cat
+
+# Empty lines MATTER as SEPARATORS. GRouped STacks (GRST) of things RELated(REL)
+
+* {{ namespace=bhdz }} :: $HOME/.bhdz/sys/scripts/os.packup.sh
+* {{ namespace=bhdz }} :: $HOME/.bhdz/sys/scripts/os.settle.sh
+?
+
+* {{ namespace=bhdz }} :: $HOME/.bhdz/commands/cat.rest/1.0/bin/cat.rest.sh
+* cat.rest
+* cat -rest
+?
+
+# rest{.sh}, Something to comment? Use the First Line Luke! Teh Last line is the A[ctual thing you're packing[Otherwise keep it clean here.
+* $HOME/${_namespace}/scripts/rest.sh/1.0/docs
+* $HOME/${_namespace}/scripts/rest.sh/1.0/bin
+* {{ ln -sT }} $HOME/${_namespace}/scripts/rest.sh/1.0/bin/rest.sh $HOME/${_namespace}/commands/rest
+rest.sh
+rest

@@ -1,0 +1,27 @@
+# $     This directory is a UNIX package! MAN(), READ() OR DIE()!
+# @     This Directory is Installable!
+# .     IS WHEREVER this Dir is!
+# \n    separates
+
+./README.md
+
+# All scripts are here
+./scripts
+
+# DescriptoR File for the ./scripts directory, holds ALL that SCRIPTS has
+# Reader() Think like a STRUCTURED thingy. 
+# Note: *.has is not an *.is file
+scripts.has
+
+# Describer of ./scripts directory, Each line is a Semantical Peer to the Other lines
+script.is
+
+# No selfreferentials in the filenames
+# package.has if you uncomment this line ALL HELL BROKES LOOSE! LOL
+
+# The Idea?
+# TEXT over BLOBS! Human TEXT over Complicated Scriptage!
+# 
+# ./scripts/index.cat | interpreter | ./scripts.module.deploy
+# or 
+# ./index.cat | interpreter
